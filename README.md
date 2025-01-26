@@ -12,5 +12,5 @@ pip install -U openai-whisper
 To convert a video file to mp3 and transcribe it, use the following command:
 
 ```
-python video_to_mp3.py <video_path>
+python video_to_text.py <video_path>
 ```
